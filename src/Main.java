@@ -4,6 +4,6 @@ public class Main {
         System.out.println("    __!__\n" +
                 "_____(_)_____\n" +
                 "   !  !  !");
-        System.out.println("aiplanes");
+        System.out.println("AiRplanes!");
     }
 }
